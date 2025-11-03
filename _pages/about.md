@@ -11,7 +11,6 @@ redirect_from:
 ## 联系方式
 - 📞 电话: 18298194309
 - 📧 邮箱: 202521340@stu.sufe.edu.cn
-- 🌐 主页: https://limengping.github.io
 
 ## 教育背景
 
