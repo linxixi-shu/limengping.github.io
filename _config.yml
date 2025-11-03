@@ -11,6 +11,9 @@ description              : "应用统计学硕博连读，上海财经大学"
 repository               : "linxixi-shu/limengping.github.io"
 baseurl                 : ""
 url                     : "https://linxixi-shu.github.io/limengping.github.io"
+relative_links:
+  enabled:     true
+  collections: true
 google_scholar_stats_use_cdn : false
 
 # Site Navigation

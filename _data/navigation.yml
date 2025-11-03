@@ -1,15 +1,15 @@
 main:
   - title: "简介"
-    url: "/#intro"
+    url: "#intro"
 
   - title: "教育背景"
-    url: "/#education"
+    url: "#education"
 
   - title: "论文发表"
-    url: "/#publications"
+    url: "#publications"
 
   - title: "项目经历"
-    url: "/#projects"
+    url: "#projects"
 
   - title: "个人技能"
-    url: "/#skills"
+    url: "#skills"
