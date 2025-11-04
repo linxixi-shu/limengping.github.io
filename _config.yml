@@ -16,6 +16,12 @@ relative_links:
   collections: true
 google_scholar_stats_use_cdn : false
 
+# Notes collection (personal study notes)
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
+
 # Site Navigation
 defaults:
   - scope:
@@ -43,8 +49,8 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "2025213402@sufe.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  email            : "202521340@stu.sufe.edu.cn"
+  openreview       : "https://openreview.net/profile?id=%7EMengping_Li1"
   uri              : 
   bitbucket        :
   codepen          :
@@ -60,7 +66,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : # "https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

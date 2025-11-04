@@ -13,3 +13,6 @@ main:
 
   - title: "个人技能"
     url: "#skills"
+  
+  - title: "学习笔记"
+    url: "/notes/"
