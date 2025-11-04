@@ -10,7 +10,7 @@ title                    : "李梦萍"
 description              : "应用统计学硕博连读，上海财经大学"
 repository               : "linxixi-shu/limengping.github.io"
 baseurl                 : "/limengping.github.io"
-url                     : "https://linxixi-shu.github.io/limengping.github.io"
+url                     : "https://linxixi-shu.github.io"
 relative_links:
   enabled:     true
   collections: true

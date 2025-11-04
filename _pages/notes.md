@@ -10,9 +10,9 @@ excerpt: "个人学习笔记索引"
 
 ## 当前笔记列表
 
-{% raw %}{% for note in site.notes %}{% endraw %}
-- {% raw %}[{{ note.title }}]({{ note.url }}) — {{ note.date | date: "%Y-%m-%d" }}{% endraw %}
-{% raw %}{% endfor %}{% endraw %}
+{% for note in site.notes %}
+- [{{ note.title }}]({{ site.baseurl }}{{ note.url }}) — {{ note.date | date: "%Y-%m-%d" }}
+{% endfor %}
 
 ---
 
