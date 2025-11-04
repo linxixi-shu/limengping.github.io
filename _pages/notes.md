@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /notes/
 title: "学习笔记"
 excerpt: "个人学习笔记索引"
@@ -11,7 +11,7 @@ excerpt: "个人学习笔记索引"
 ## 当前笔记列表
 
 {% for note in site.notes %}
-- [{{ note.title }}]({{ site.baseurl }}{{ note.url }}) — {{ note.date | date: "%Y-%m-%d" }}
+- [{{ note.title }}]({{ site.baseurl }}{{ note.url }})  {{ note.date | date: "%Y-%m-%d" }}
 {% endfor %}
 
 ---
@@ -21,7 +21,7 @@ excerpt: "个人学习笔记索引"
 1. 在 `_notes/` 下创建一个新的 Markdown 文件，例如 `2025-11-05-my-note.md`。
 2. 在文件顶部添加 front matter：
 
-```
+```yaml
 ---
 title: "笔记标题"
 date: 2025-11-05
